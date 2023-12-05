@@ -122,6 +122,7 @@ try // Part 2
             {
                 cardCount.Add(i, 1);
             }
+            // Updates the following cards with the current card's count
             cardCount[i] += cardCount[cardNumber]   ;
         }
         totalPoints += cardCount[cardNumber];
