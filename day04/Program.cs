@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Numerics;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, December 4, 2023!");
 
 double totalPoints = 0;
 
