@@ -25,7 +25,6 @@ Console.WriteLine("Total Margin of Error is " + marginOfError);
 // Day 6 Pt 2 (Find Start and End speeds that win race)
 double timesPt2 = 49979494;
 double distancesPt2 = 263153213781851;
-double waysPt2 = 0;
 double start = 0;
 double end = 0;
 
