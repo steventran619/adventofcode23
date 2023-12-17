@@ -1,0 +1,15 @@
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\bin\Debug\net8.0\dayXX.exe
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\bin\Debug\net8.0\dayXX.deps.json
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\bin\Debug\net8.0\dayXX.runtimeconfig.json
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\bin\Debug\net8.0\dayXX.dll
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\bin\Debug\net8.0\dayXX.pdb
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\obj\Debug\net8.0\dayXX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\obj\Debug\net8.0\dayXX.AssemblyInfoInputs.cache
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\obj\Debug\net8.0\dayXX.AssemblyInfo.cs
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\obj\Debug\net8.0\dayXX.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\obj\Debug\net8.0\dayXX.sourcelink.json
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\obj\Debug\net8.0\dayXX.dll
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\obj\Debug\net8.0\refint\dayXX.dll
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\obj\Debug\net8.0\dayXX.pdb
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\obj\Debug\net8.0\dayXX.genruntimeconfig.cache
+C:\Users\Steven\Source\Repos\steventran619\adventofcode23\dayXX\obj\Debug\net8.0\ref\dayXX.dll
