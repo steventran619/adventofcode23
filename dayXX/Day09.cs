@@ -61,10 +61,9 @@ namespace Day09
                 for (int i = previousHistory.Count - 1; i > 0; i--)
                 {
                     newHistory[i - 1] = previousHistory[i] - previousHistory[i - 1];
-                    //Console.Write(newHistory[i - 1] + " ");
                 }
-                //count++;
-                sum -= newHistory.First();
+                count++;
+                sum -= (int)Math.Pow(-1, count) * newHistory.First();
                 difference = AllZeroes(newHistory);
                 previousHistory = newHistory.ToList();
             }
@@ -102,7 +101,7 @@ namespace Day09
             int totalSum = 0;
             try
             {
-                using (var sr = new StreamReader("data09-test.txt"))
+                using (var sr = new StreamReader("data09.txt"))
                 {
                     string line = "";
                     while ((line = sr.ReadLine()) != null)
